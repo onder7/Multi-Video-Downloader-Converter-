@@ -10,7 +10,7 @@
 ### Tanıtım
 <img width="1200" height="799" alt="image" src="https://github.com/user-attachments/assets/7384562d-ec9d-4f96-af17-8200b6b03be1" />
 
-<img width="1200" height="799" alt="image" src="https://github.com/user-attachments/assets/MDC-Portable-v1.0.0-FINAL.gif" />
+<img width="1200" height="799" alt="image" src="MDC-Portable-v1.0.0-FINAL.gif" />
 
 
 
