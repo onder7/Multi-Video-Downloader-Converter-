@@ -4,7 +4,8 @@
 
 ---
 
-## Türkçe (TR) / ## English (EN)
+## Türkçe (TR) 
+## English (EN)
 
 ### Tanıtım
 
