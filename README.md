@@ -10,13 +10,9 @@
 ### Tanıtım
 <img width="1200" height="799" alt="image" src="https://github.com/user-attachments/assets/7384562d-ec9d-4f96-af17-8200b6b03be1" />
 
+<img width="1200" height="799" alt="image" src="https://github.com/user-attachments/assets/MDC-Portable-v1.0.0-FINAL.gif" />
 
-![Uploading MDC-Portable-v1.0.0-FINAL.gif…]()
 
-
-[Uploading (2) Multi-Down[InternetShortcut]
-URL=https://www.youtube.com/watch?v=_PBtF-AYGTc
-loader & Converter (MDC) - YouTube.url…]()
 
 
 Download : https://dosya.co/sx25rjr6e43z/MDC-Portable-v1.0.0-FIXED.zip.html
